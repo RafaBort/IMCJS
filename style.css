@@ -1,0 +1,51 @@
+body { 
+  margin: 0;
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: left;
+  align-items: center;
+
+  background-color:rgb(253, 23, 203);
+  background-position: 50% 90%;
+  color: rgb(255, 255, 255);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif sans-serif;
+}
+
+
+input{
+  display: block;
+  height: 25px;
+  width: 300px;
+  margin: 15px;
+  border-radius: 25px;
+  font-size: 1px solid black;
+  padding: 10px 20px;
+}
+
+h1{
+  text-align: center;
+  padding: 20px;
+  font-size: 20pt;
+  font-family: 'Poiret One';
+  color: black;
+}
+
+label{
+  text-align: center;
+  padding: 20px;
+  font-size: 20pt;
+}
+
+button{
+  height: 42px;
+  width: 150px;
+  margin: 15px;
+  border-radius: 25px;
+  font-size: 16pt;
+  padding: 10px 20px;
+  background-color: rgb(128, 0, 100);
+  border: none;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  
